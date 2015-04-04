@@ -1,0 +1,8 @@
+{
+    "name": "echo-hue",
+    "description": "A simple bridge to enable Amazon Echo to use the Philips Hue API.",
+    "dependencies": {
+        "express": "*",
+        "node-hue-api": "*"
+    }
+}
